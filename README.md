@@ -8,7 +8,7 @@ CoffeeScript JSX (CJSX) Syntax support for JetBrains IDEs, such as WebStorm, Php
 
 ## Installation
 
-Download the plugin release [here]().
+Download the plugin release [here](https://github.com/ruswerner/cjsx.tmbundle/archive/1.0.zip).
 
 Unzip the archive.
 
